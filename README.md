@@ -1,6 +1,6 @@
 > Open to any suggestions 
 
-# Arch-Hyprland
+# Arch-Hyperland
 
 ### Youtube Video:
 
@@ -10,7 +10,6 @@
 1. [Whitesur cursors](https://www.pling.com/p/1411743/)
 2. [Windows 11 Icon pack](https://www.pling.com/p/1546069/)
 3. [Gruvbox Dark GTK theme](https://www.gnome-look.org/p/1681313/#:~:text=Gruvbox%20GTK%20Themes&text=The%20idea%20was%20born%20from,unique%20look%20to%20working%20environments.)
-
 4. [Gruvbox Dark kvantum theme](https://github.com/thefallnn/Gruvbox-Kvantum)
 
 ### Dependencies :
